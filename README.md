@@ -1,6 +1,6 @@
 # File-Health-Check-Script
 
-# This is for the file healt check.
+# This is for the file health check.
 # Functionalities:
 #    > Checks dupplicates
 #    > Checks curropted files
